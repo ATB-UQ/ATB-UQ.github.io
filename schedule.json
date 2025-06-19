@@ -109,8 +109,32 @@
     {
         "date": "2025-06-12",
         "time": "09:30 AM",
-        "presenter": "Randomly decided",
-        "topic": "Roulette talk",
-        "chair": "Yao Frank Fu"
+        "presenter": "Abhay Sharma",
+        "topic": "Glass transition in MD: It’s Not About thermodynamics, It’s About Dynamics",
+        "chair": "Frank Fu"
+    },
+    {
+        "date": "2025-06-19",
+        "time": "09:30 AM",
+        "presenter": "Abhay Sharma",
+        "topic": "Glass transition in MD: It’s Not About thermodynamics, It’s About Dynamics",
+        "chair": "Frank Fu",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2025-06-26",
+        "time": "09:30 AM",
+        "presenter": "Callum Macfarlane",
+        "topic": "PR1 Practice: Towards a generalised and accurate force field for proteins and ligands: Improved parameterisation of electrostatics",
+        "chair": "Alan Mark",
+        "status": ""
+    },
+        {
+        "date": "2025-07-03",
+        "time": "09:30 AM",
+        "presenter": "Callum Macfarlane",
+        "topic": "PR1 Practice: Towards a generalised and accurate force field for proteins and ligands: Improved parameterisation of electrostatics",
+        "chair": "Alan Mark",
+        "status": "Theme"
     }
 ]

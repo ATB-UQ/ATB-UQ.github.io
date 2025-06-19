@@ -74,6 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     return; // Skip rendering this entry
                 }
 
+
                 const row = document.createElement('tr');
                 const date = new Date(entry.date);
                 let displayDate = date.toLocaleDateString('en-US', { month: 'long', day: 'numeric' });
@@ -84,14 +85,25 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (date.toDateString() === tomorrow.toDateString()) {
                     displayDate = 'Tomorrow';
                 }
+                let formattedEntry;
+                if (entry.status === 'Theme') {
+                    formattedEntry = {
+                        date: displayDate,
+                        time: entry.time,
+                        presenter: '',
+                        topic: 'QUBIC Molecules Theme meeting',
+                        chair: ''
+                    };
+                } else {
+                    formattedEntry = {
+                        date: displayDate,
+                        time: entry.time,
+                        presenter: entry.presenter,
+                        topic: entry.topic,
+                        chair: entry.chair
+                    };
+                }
 
-                const formattedEntry = {
-                    date: displayDate,
-                    time: entry.time,
-                    presenter: entry.presenter,
-                    topic: entry.topic,
-                    chair: entry.chair
-                };
 
                 Object.entries(columns).forEach(([key, columnName]) => {
                     const cell = document.createElement('td');
@@ -100,6 +112,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (key === 'presenter' && text === 'Book this Slot!') {
                         const link = document.createElement('a');
                         link.href = 'mailto:c.macfarlane@student.uq.edu.au';
+                        link.textContent = text;
+                        cell.appendChild(link);
+                    } else if (entry.status === 'Theme') {
+                        const link = document.createElement('a');
+                        link.href = 'https://atb-uq.github.io/QUBIC_Molecules_Theme/';
                         link.textContent = text;
                         cell.appendChild(link);
                     } else {
