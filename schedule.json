@@ -136,5 +136,12 @@
         "topic": "PR1 Practice: Towards a generalised and accurate force field for proteins and ligands: Improved parameterisation of electrostatics",
         "chair": "Alan Mark",
         "status": "Theme"
+    },    {
+        "date": "2025-07-17",
+        "time": "09:30 AM",
+        "presenter": "Abhay Sharma",
+        "topic": "Glass transition in MD: It’s Not About thermodynamics, It’s About Dynamics",
+        "chair": "Frank Fu",
+        "status": "CTCMS"
     }
 ]
