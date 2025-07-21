@@ -70,10 +70,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Render the sorted schedule
             combinedSchedule.forEach(entry => {
-                if (entry.status === 'CTCMS') {
-                    return; // Skip rendering this entry
-                }
-
 
                 const row = document.createElement('tr');
                 const date = new Date(entry.date);
@@ -86,7 +82,17 @@ document.addEventListener('DOMContentLoaded', () => {
                     displayDate = 'Tomorrow';
                 }
                 let formattedEntry;
-                if (entry.status === 'Theme') {
+                if (['CTCMS','SBB'].includes(entry.status)) {
+                    date.setDate(date.getDate() + 1)
+                    displayDate = date.toLocaleDateString('en-US', { month: 'long', day: 'numeric' });
+                    formattedEntry = {
+                        date: displayDate,
+                        time: entry.time,
+                        presenter: '',
+                        topic: entry.status === 'CTCMS' ? 'CTCMS @ AIBN' : 'SBB Seminar Series',
+                        chair: ''
+                    };
+                } else if (entry.status === 'Theme') {
                     formattedEntry = {
                         date: displayDate,
                         time: entry.time,

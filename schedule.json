@@ -143,12 +143,33 @@
         "topic": "Glass transition in MD: It’s Not About thermodynamics, It’s About Dynamics",
         "chair": "Frank Fu",
         "status": "CTCMS"
+    },     {
+        "date": "2025-07-31",
+        "time": "10:00 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "Frank Fu",
+        "status": "SBB"
+    },     {
+        "date": "2025-08-07",
+        "time": "10:00 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "Frank Fu",
+        "status": "Theme"
+    },      {
+        "date": "2025-08-14",
+        "time": "10:00 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "Frank Fu",
+        "status": "CTCMS"
     },    {
         "date": "2025-08-21",
         "time": "09:30 AM",
-        "presenter": "Luke Ting-Williams",
+        "presenter": "1. Luke Ting-Williams, 2. Zahra Raza",
         "topic": "TBA",
-        "chair": "Luna Morrow",
+        "chair": "Callum Macfarlane",
         "status": ""
     }
 ]
