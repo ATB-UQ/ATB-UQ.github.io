@@ -178,5 +178,12 @@
         "topic": "TBA",
         "chair": "Callum Macfarlane",
         "status": ""
+    },    {
+        "date": "2025-09-11",
+        "time": "09:30 AM",
+        "presenter": "Callum Macfarlane",
+        "topic": "BIOMOS practice talk",
+        "chair": "Martin Stroet",
+        "status": ""
     }
 ]
