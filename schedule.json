@@ -185,5 +185,26 @@
         "topic": "BIOMOS practice talk",
         "chair": "Martin Stroet",
         "status": ""
+    },    {
+        "date": "2025-09-23",
+        "time": "10:00 AM",
+        "presenter": "Callum Macfarlane",
+        "topic": "BIOMOS practice talk",
+        "chair": "Martin Stroet",
+        "status": "SBB"
+    },    {
+        "date": "2025-10-06",
+        "time": "09:30 AM",
+        "presenter": "1) Shuting Fan,  2) Xiaoqian Yao",
+        "topic": "Semester research project presentations",
+        "chair": "Megan O'Mara",
+        "status": ""
+    },    {
+        "date": "2025-10-13",
+        "time": "09:30 AM",
+        "presenter": "Professor Gerhard Stock",
+        "topic": "Real time exploration of allosteric communication:\nExperiment, MD and low-dimensional modeling",
+        "chair": "TBA",
+        "status": ""
     }
 ]
