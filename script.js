@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const tbody = document.querySelector('#schedule tbody');
             const thead = document.querySelector('#schedule thead');
             const today = new Date();
-            const endDate = new Date('2025-12-05');
+            // const endDate = new Date('2025-12-05');
+            const endDate = new Date('2026-12-05');
             const thursdays = [];
 
             // Define the columns to be rendered and their display names
