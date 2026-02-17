@@ -22,11 +22,19 @@
     {
         "date": "2026-02-26",
         "time": "09:30 AM",
-        "presenter": "Abhay Sharma",
+        "presenter": "Dr Billy Williams-Noonan",
         "topic": "TBD",
         "chair": "Patrick Sutton",
         "status": ""
-    }
+    },
+    {
+        "date": "2026-03-05",
+        "time": "09:30 AM",
+        "presenter": "Abhay Sharma",
+        "topic": "Consistent and transferable parameterisation of halogen-containing organic compounds",
+        "chair": "Dr Billy Williams-Noonan",
+        "status": ""
+    },
 
 
 ]
