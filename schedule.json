@@ -22,27 +22,41 @@
     {
         "date": "2026-02-26",
         "time": "09:30 AM",
-        "presenter": "Dr Billy Williams-Noonan",
-        "topic": "TBD",
-        "chair": "Patrick Sutton",
-        "status": ""
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
     },
     {
         "date": "2026-03-05",
         "time": "09:30 AM",
         "presenter": "Abhay Sharma",
         "topic": "Consistent and transferable parameterisation of halogen-containing organic compounds",
-        "chair": "Dr Billy Williams-Noonan",
+        "chair": "Patrick Sutton",
         "status": ""
     },
     {
         "date": "2026-03-12",
         "time": "09:30 AM",
         "presenter": "Afshaan Kathrene Singh",
-        "topic": "",
+        "topic": "TBA",
         "chair": "Abhay Sharma",
         "status": ""
+    },
+    {
+        "date": "2026-03-19",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-03-26",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
     }
-
-
 ]
