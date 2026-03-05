@@ -38,8 +38,8 @@
     {
         "date": "2026-03-12",
         "time": "09:30 AM",
-        "presenter": "Afshaan Kathrene Singh",
-        "topic": "TBA",
+        "presenter": "Luke Ting-Williams",
+        "topic": "Progress Review 1 - Practice Talk",
         "chair": "Abhay Sharma",
         "status": ""
     },
@@ -53,6 +53,30 @@
     },
     {
         "date": "2026-03-26",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
+    },
+    {
+        "date": "2026-04-09",
+        "time": "09:30 AM",
+        "presenter": "Afshaan Kathrene Singh",
+        "topic": "",
+        "chair": "",
+        "status": ""
+    },
+    {
+        "date": "2026-04-16",
+        "time": "09:30 AM",
+        "presenter": "TBA",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-04-30",
         "time": "09:30 AM",
         "presenter": "",
         "topic": "",
