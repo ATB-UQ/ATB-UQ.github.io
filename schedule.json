@@ -60,17 +60,23 @@
         "status": "SBB"
     },
     {
+        "date": "2026-04-01",
+        "time": "09:30 AM",
+        "presenter": "Yumeng Hao",
+        "topic": "TBA",
+        "chair": "Luke Ting-Williams",
+    },
+    {
         "date": "2026-04-09",
         "time": "09:30 AM",
         "presenter": "Afshaan Kathrene Singh",
-        "topic": "",
-        "chair": "",
-        "status": ""
+        "topic": "Conformational Landscape of the Di-and Tripeptide Permease A Transport Cycle",
+        "chair": "Yumeng Hao",
     },
     {
         "date": "2026-04-16",
         "time": "09:30 AM",
-        "presenter": "TBA",
+        "presenter": "",
         "topic": "",
         "chair": "",
         "status": "CTCMS"
