@@ -98,5 +98,53 @@
         "topic": "",
         "chair": "",
         "status": "SBB"
+    },
+    {
+        "date": "2026-05-07",
+        "time": "09:30 AM",
+        "presenter": "Jessica Weeland",
+        "topic": "TBA",
+        "chair": "Yanfeng Liu",
+        "status": ""
+    },
+    {
+        "date": "2026-05-14",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-05-21",
+        "time": "09:30 AM",
+        "presenter": "Callum Macfarlane",
+        "topic": "TBA",
+        "chair": "Jessica Weeland",
+        "status": ""
+    },
+    {
+        "date": "2026-05-28",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
+    },
+    {
+        "date": "2026-06-04",
+        "time": "09:30 AM",
+        "presenter": "Solace Roche",
+        "topic": "TBA",
+        "chair": "Callum Macfarlane",
+        "status": ""
+    },
+    {
+        "date": "2026-06-11",
+        "time": "09:30 AM",
+        "presenter": "Ada Quinn",
+        "topic": "TBA",
+        "chair": "Solace Roche",
+        "status": ""
     }
 ]
