@@ -102,10 +102,10 @@
     {
         "date": "2026-05-07",
         "time": "09:30 AM",
-        "presenter": "Jessica Weeland",
-        "topic": "TBA",
-        "chair": "Yanfeng Liu",
-        "status": ""
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
     },
     {
         "date": "2026-05-14",
@@ -118,9 +118,9 @@
     {
         "date": "2026-05-21",
         "time": "09:30 AM",
-        "presenter": "Callum Macfarlane",
+        "presenter": "Jessica Weeland",
         "topic": "TBA",
-        "chair": "Jessica Weeland",
+        "chair": "Yanfeng Liu",
         "status": ""
     },
     {
@@ -134,17 +134,17 @@
     {
         "date": "2026-06-04",
         "time": "09:30 AM",
-        "presenter": "Solace Roche",
+        "presenter": "Callum Macfarlane",
         "topic": "TBA",
-        "chair": "Callum Macfarlane",
+        "chair": "Jessica Weeland",
         "status": ""
     },
     {
         "date": "2026-06-11",
         "time": "09:30 AM",
-        "presenter": "Ada Quinn",
+        "presenter": "Solace Roche",
         "topic": "TBA",
-        "chair": "Solace Roche",
+        "chair": "Callum Macfarlane",
         "status": ""
     }
 ]
