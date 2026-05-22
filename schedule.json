@@ -134,7 +134,7 @@
     {
         "date": "2026-06-04",
         "time": "09:30 AM",
-        "presenter": "Callum Macfarlane",
+        "presenter": "Solace Roche",
         "topic": "TBA",
         "chair": "Jessica Weeland",
         "status": ""
@@ -142,9 +142,33 @@
     {
         "date": "2026-06-11",
         "time": "09:30 AM",
-        "presenter": "Solace Roche",
-        "topic": "TBA",
-        "chair": "Callum Macfarlane",
+        "presenter": "Ada Quinn",
+        "topic": "Coarse grained models to describe proteins with multiple conformational states",
+        "chair": "Solace Roche",
+        "status": ""
+    },
+    {
+        "date": "2026-06-18",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-06-25",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
+    },
+    {
+        "date": "2026-07-02",
+        "time": "09:30 AM",
+        "presenter": "Patrick Sutton",
+        "topic": "",
+        "chair": "Ada Quinn",
         "status": ""
     }
 ]
