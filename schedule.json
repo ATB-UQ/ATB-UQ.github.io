@@ -178,5 +178,21 @@
         "topic": "",
         "chair": "",
         "status": ""
+    },
+    {
+        "date": "2026-07-16",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-07-23",
+        "time": "09:30 AM",
+        "presenter": "Rangika Munaweera",
+        "topic": "Polyconstruct-ing the Fungal Inner Cell Wall - Part 1",
+        "chair": "Ada Quinn",
+        "status": ""
     }
 ]
