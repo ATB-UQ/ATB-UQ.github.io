@@ -208,15 +208,15 @@
         "time": "09:30 AM",
         "presenter": "Ubaid Mehmood",
         "topic": "Structural investigation of the non-ribosomal peptide synthetase complex PCP-X didomain interaction with OxyB cytochrome P450 enzyme involved in biosynthesis of the glycopeptide antibiotic teicoplanin",
-        "chair": "Rangika Munaweera",
+        "chair": "Patrick Sutton",
         "status": ""
     },
     {
         "date": "2026-08-13",
         "time": "09:30 AM",
         "presenter": "Patrick Sutton",
-        "topic": "",
-        "chair": "Ubaid Mehmood",
+        "topic": "Molecular Dynamics Under Pressure and Hot to the Touch, Cold on the Inside",
+        "chair": "Ada Quinn",
         "status": ""
     },
     {
@@ -234,6 +234,21 @@
         "topic": "",
         "chair": "",
         "status": "SBB"
+    },
+    {
+        "date": "2026-09-04",
+        "time": "09:30 AM",
+        "presenter": "Patrick Sutton",
+        "topic": "Molecular Dynamics Under Pressure and Hot to the Touch, Cold on the Inside - Continued..",
+        "chair": "Ada Quinn",
+        "status": ""
     }
-
+    {
+        "date": "2026-10-22",
+        "time": "09:30 AM",
+        "presenter": "Angus McDonald",
+        "topic": "",
+        "chair": "",
+        "status": ""
+    }
 ]
