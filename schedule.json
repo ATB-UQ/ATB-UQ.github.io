@@ -102,10 +102,10 @@
     {
         "date": "2026-05-07",
         "time": "09:30 AM",
-        "presenter": "",
+        "presenter": "Special SBB Seminar",
         "topic": "",
         "chair": "",
-        "status": "SBB"
+        "status": ""
     },
     {
         "date": "2026-05-14",
@@ -292,7 +292,7 @@
         "status": "CTCMS"
     },
     {
-        "date": "2026-10-26",
+        "date": "2026-11-26",
         "time": "09:30 AM",
         "presenter": "",
         "topic": "",
