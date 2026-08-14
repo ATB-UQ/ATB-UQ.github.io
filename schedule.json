@@ -236,13 +236,45 @@
         "status": "SBB"
     },
     {
-        "date": "2026-09-04",
+        "date": "2026-09-03",
         "time": "09:30 AM",
         "presenter": "Patrick Sutton",
         "topic": "Molecular Dynamics Under Pressure and Hot to the Touch, Cold on the Inside - Continued..",
         "chair": "Ada Quinn",
         "status": ""
-    }
+    },
+    {
+        "date": "2026-09-17",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-09-17",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
+    },
+    {
+        "date": "2026-10-15",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-10-29",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
+    },
     {
         "date": "2026-10-22",
         "time": "09:30 AM",
@@ -250,5 +282,21 @@
         "topic": "",
         "chair": "",
         "status": ""
+    },
+    {
+        "date": "2026-11-19",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "CTCMS"
+    },
+    {
+        "date": "2026-10-26",
+        "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
     }
 ]
