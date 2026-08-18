@@ -244,6 +244,14 @@
         "status": ""
     },
     {
+        "date": "2026-09-10",
+        "time": "09:30 AM",
+        "presenter": "Ubaid Mehmood",
+        "topic": "TBA",
+        "chair": "Patrick Sutton",
+        "status": ""
+    },
+    {
         "date": "2026-09-17",
         "time": "09:30 AM",
         "presenter": "",
@@ -252,7 +260,7 @@
         "status": "CTCMS"
     },
     {
-        "date": "2026-09-17",
+        "date": "2026-09-24",
         "time": "09:30 AM",
         "presenter": "",
         "topic": "",
