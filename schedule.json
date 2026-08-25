@@ -230,6 +230,14 @@
     {
         "date": "2026-08-27",
         "time": "09:30 AM",
+        "presenter": "",
+        "topic": "",
+        "chair": "",
+        "status": "SBB"
+    },
+    {
+        "date": "2026-09-03",
+        "time": "09:30 AM",
         "presenter": "Patrick Sutton",
         "topic": "Molecular Dynamics Under Pressure and Hot to the Touch, Cold on the Inside - Continued..",
         "chair": "Yumeng Hao",
