@@ -271,14 +271,15 @@
         "date": "2026-10-01",
         "time": "09:30 AM",
         "presenter": "Yao (Frank) Fu",
-        "topic": "",
-        "chair": "",
+        "topic": "Investigating the volume and diversity of data needed for generalizable antibody-antigen ΔΔG
+prediction",
+        "chair": "Pat Sutton",
         "status": ""
     },
     {
         "date": "2026-10-08",
         "time": "09:30 AM",
-        "presenter": "Yanfeng Liu",
+        "presenter": "QUBIC Seminar",
         "topic": "",
         "chair": "",
         "status": ""
@@ -294,7 +295,7 @@
     {
         "date": "2026-10-22",
         "time": "09:30 AM",
-        "presenter": "Angus McDonald",
+        "presenter": "Yanfeng Liu",
         "topic": "",
         "chair": "",
         "status": ""
@@ -312,6 +313,14 @@
         "time": "09:30 AM",
         "presenter": "Joy Ju, Afshaan Kathrene Singh",
         "topic": "Masters Presentation, Practice M1",
+        "chair": "",
+        "status": ""
+    },
+    {
+        "date": "2026-11-12",
+        "time": "09:30 AM",
+        "presenter": "Angus Macdonald",
+        "topic": "",
         "chair": "",
         "status": ""
     },
